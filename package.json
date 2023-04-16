@@ -1,0 +1,22 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaurvPatil/namste-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaurvPatil/namste-react/issues"
+  },
+  "homepage": "https://github.com/GaurvPatil/namste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
